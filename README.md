@@ -34,7 +34,12 @@
 </a>
 
 ### 📋 my project
-<a href="http://">
+<a href="https://github.com/devchyun96/Board.git">
+    간단한 board 만들기
+</a>
+<br/>
+<a href="https://github.com/devchyun96/hyunstagram.git">
+    인스타그램 클론 프로젝트 hyunstagram
 </a>
 
 ### 🏅 my stat
