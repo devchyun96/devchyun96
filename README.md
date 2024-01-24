@@ -33,6 +33,14 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
 </a>
 
+### 📋 my project
+<a href="http://">
+</a>
+
+### 🏅 my stat
+
+<img src="https://github-readme-stats.vercel.app/api?username=devchyun96&show_icons=true&theme=dark">
+
 </div>
 <!--
 **devchyun96/devchyun96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
