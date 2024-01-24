@@ -1,21 +1,37 @@
 
-
 <div align=center>
-    ![header](https://capsule-render.vercel.app/api?type=Rounded&text=devchyun96's GitHub)
+    
+![header](https://capsule-render.vercel.app/api?type=Rounded&&text=devchyun96's%20GitHub)
+
   <br/>
   <br/>
 
-### :grey_exclamation: my skills
+### 💻 my skills
+    
+
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-0769AD?logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-6DB33F?logo=springboot&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20boot-6DB33F?logo=springboot&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white"><br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon%20ec2&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git%20hub-181717?logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+
+  <br/>
+  <br/>
+
+### 🔔 contact
+<a href="devchyun96@naver.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Naver-03C75A?logo=naver&logoColor=white">
+</a>
+<a href="chlhun416@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
+</a>
 
 </div>
 <!--
