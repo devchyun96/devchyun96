@@ -39,7 +39,7 @@
 </a>
 <br/>
 <a href="https://github.com/devchyun96/hyunstagram.git">
-    인스타그램 클론 프로젝트 hyunstagram
+    [미완] 인스타그램 클론 프로젝트 hyunstagram
 </a>
 <br/>
 <a href="https://github.com/devchyun96/WithBuddy.git">
