@@ -42,7 +42,7 @@
     [미완] 인스타그램 클론 프로젝트 hyunstagram
 </a>
 <br/>
-<a href="https://github.com/devchyun96/WithBuddy.git">
+<a href="https://github.com/devchyun96/Withbuddy_project.git">
     팀원들과 같이 한 매칭프로젝트 withbuddy
 </a>
 
