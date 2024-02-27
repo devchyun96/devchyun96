@@ -37,6 +37,7 @@
 <a href="https://github.com/devchyun96/Withbuddy_project.git">
     팀원들과 같이 한 매칭프로젝트 withbuddy
 </a>
+<br/>
 <a href="https://github.com/devchyun96/Board.git">
     간단한 board 만들기
 </a>
@@ -48,7 +49,6 @@
 <a href="https://github.com/devchyun96/clone.git">
     인스타그램 클론 프로젝트 hyunstagram front-end
 </a>
-<br/>
 
 ### 🏅 my stat
 
