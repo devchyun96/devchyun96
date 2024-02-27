@@ -22,6 +22,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git%20hub-181717?logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <br/>
   <br/>
 
