@@ -35,7 +35,7 @@
 
 ### 📋 my project
 <a href="https://github.com/devchyun96/Withbuddy_project.git">
-    팀원들과 같이 한 매칭프로젝트 withbuddy
+    외로운 애견인들을 위한 산책메이트 매칭프로젝트 withbuddy
 </a>
 <br/>
 <a href="https://github.com/devchyun96/Board.git">
