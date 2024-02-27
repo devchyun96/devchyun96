@@ -27,10 +27,10 @@
   <br/>
 
 ### 🔔 contact
-<a href="mailto:devchyun96@naver.com">
+<a href="devchyun96@naver.com">
     devchyun96@naver.com
 </a>
-<a href="mailto:chlhun416@gmail.com">
+<a href="chlhun416@gmail.com">
     chlhun416@gmail.com
 </a>
 
