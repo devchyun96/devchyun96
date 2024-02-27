@@ -28,10 +28,10 @@
 
 ### 🔔 contact
 <a href="mailto:devchyun96@naver.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Naver-03C75A?logo=naver&logoColor=white">
+    devchyun96@naver.com
 </a>
 <a href="mailto:chlhun416@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white">
+    chlhun416@gmail.com
 </a>
 
 ### 📋 my project
