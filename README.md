@@ -27,12 +27,9 @@
   <br/>
 
 ### 🔔 contact
-<a href="devchyun96@naver.com">
-    devchyun96@naver.com
-</a>
-<a href="chlhun416@gmail.com">
-    chlhun416@gmail.com
-</a>
+
+   Email: devchyun96@naver.com
+
 
 ### 📋 my project
 <a href="https://github.com/devchyun96/Withbuddy_project.git">
