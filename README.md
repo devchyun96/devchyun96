@@ -32,6 +32,13 @@
           </div>  <br>     
     <div align= "center">  </div> 
     </div>
+    <div align="center">
+           <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> # project</h2>
+         <div align="center">
+            <a href=https://github.com/devchyun96/Board.git> 간단한 게시판 만들기 </a> <br/>
+            <a href=https://github.com/devchyun96/Withbuddy_project.git> 반려견 매칭 프로젝트 withBuddy </a>
+        </div>
+    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=devchyun96&bg_color=60,414268,8b4b86&title_color=f2f2f2&text_color=f2f2f2"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchyun96&layout=compact&bg_color=60,414268,8b4b86&title_color=f2f2f2&text_color=f2f2f2"
