@@ -3,7 +3,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 저는 성실하고 시간을 잘 지키며, 새로운 기술을 배우는 것을 즐기는 개발자 최강현입니다. </li>새로운 기술에 대한 도전 정신을 가지고 있으며, 기술의 적용을 하고자 노력하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 저는 성실하고 시간을 잘 지키며, 새로운 기술을 배우는 것을 즐기는 개발자 최강현입니다. 
+    <br/>새로운 기술에 대한 도전 정신을 가지고 있으며, 기술의 적용을 하고자 노력하고 있습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
